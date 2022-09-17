@@ -13,7 +13,7 @@
     border-radius: 50%;
     border: 6px solid #000;
     border-color: #000 transparent #000 transparent;
-    animation: Loader 1.2s linear infinite;
+    animation: Loader 2.2s linear infinite;
   }
   @keyframes Loader {
     0% {
